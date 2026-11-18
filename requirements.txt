@@ -1,0 +1,12 @@
+numpy<2
+scipy
+opencv-python
+mediapipe==0.10.14
+librosa
+sounddevice
+bleak
+scikit-learn
+pandas
+matplotlib
+streamlit>=1.40
+pytest
